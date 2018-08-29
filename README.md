@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Tom Hunts Github Page
 
 You can use the [editor on GitHub](https://github.com/huntt1/huntt1.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
