@@ -30,6 +30,7 @@ The Baltimore City Polygon was from the City of Baltimore Open GIS data site at 
 
 
 
+![output_e8xh54](https://user-images.githubusercontent.com/42807766/48355655-8194db80-e662-11e8-959e-d82e227ac2b0.gif)
 
 
 ![giftake4](https://user-images.githubusercontent.com/42807766/48318551-99bc1a80-e5d0-11e8-9f2f-401e10dd54ee.gif)
