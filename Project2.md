@@ -159,3 +159,7 @@ Below is a heat density map made from the point shapefiles added up from 2012 to
  You can see a couple portions of the harbor/downtown area with dark red meaning high crime.
 The Darkest red area is where the Royal Farms Arena is, right at the end of the inner harbor.
 The other dark red spot to the east of that is a high crime area boxed in by Broadway east to the North, Middle East to the south, Gay Street to the west and Madison Eastend to the East.
+
+### Crime Free Areas in Baltimore
+The below map was created using my edited/cleaned up Violent crime point vector file containing all violent crime from 2012-2017. I gave all points a 1000 foot buffer and then dissolved the file. Below we will blow up two of the main violent crime free areas.
+![crime_3](https://user-images.githubusercontent.com/42807766/48442800-33b0ce00-e75d-11e8-9f1f-68edf4f99ffe.png)
