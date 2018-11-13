@@ -163,3 +163,6 @@ The other dark red spot to the east of that is a high crime area boxed in by Bro
 ### Crime Free Areas in Baltimore
 The below map was created using my edited/cleaned up Violent crime point vector file containing all violent crime from 2012-2017. I gave all points a 1000 foot buffer and then dissolved the file. Below we will blow up two of the main violent crime free areas.
 ![crime_3](https://user-images.githubusercontent.com/42807766/48442800-33b0ce00-e75d-11e8-9f1f-68edf4f99ffe.png)
+
+
+As you would think, the safest places in Baltimore are parks and industrial areas. cemeteries arent bad either. 
