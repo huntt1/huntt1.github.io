@@ -12,6 +12,7 @@ The Baltimore City Polygon was from the City of Baltimore Open GIS data site at 
 - clip
 - count points in polygons
 - heatmap
+- buffer
 
 
 ### Data Analysis:
