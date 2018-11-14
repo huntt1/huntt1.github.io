@@ -52,7 +52,7 @@ That gif was composed from the following 6 maps
 
 
 
-```
+
 ## This is the python I wrote to select features of the active layer and add all the project layers
 ``` python
 #this is python created by Tom Hunt to determine high crime areas year to year in baltimore from 2012 to 2017
