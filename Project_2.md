@@ -18,7 +18,7 @@ The Baltimore City Polygon was from the City of Baltimore Open GIS data site at 
 ### Data Analysis:
   For this project, I downloaded Baltimore Crime data from January 2012 to October 2018 from the Baltimore Police Department. I immediately removed the data from 2018 since it was not a full yearself. The remaining data set was 6 full years of Baltimore City Crime Data.
 
-  This was approximatly 337,000 crimes throughout the years which were sorted by year using SQL Query in a SpatiaLite Database by year and then sorted again to remove nonviolent crimes. At the end around sixty thousand crimes in the six year period fit the descritption i was looking for. A diamond grid of Baltimore City was created and crimes were counted in each polygon for each of the six years. This grid crime map was then made into a gif as is seen below. The dark purple is little to no crime and yellow is the high crime areas.
+  This was approximatly three hundred and thirty thousand crimes throughout the years which were sorted by year using SQL Query in a SpatiaLite Database by year and then sorted again to remove nonviolent crimes. At the end around sixty thousand crimes in the six year period fit the descritption i was looking for. A diamond grid of Baltimore City was created and crimes were counted in each polygon for each of the six years. This grid crime map was then made into a gif as is seen below. The dark purple is little to no crime and yellow is the high crime areas.
 
   Data was also removed that was recorded in a abnormal fashion not corresponding to where the actual crimes occured. This includes most hospitals and police stations. Previous to removal, these areas were hotspots on the crime density map.
 
@@ -121,6 +121,9 @@ As you would think, the safest places in Baltimore are parks and industrial area
 
 
 ![puta madre](https://user-images.githubusercontent.com/42807766/48457192-c0747f80-e78f-11e8-9cdd-fddbf86c4e5d.png)
+
+![image](https://user-images.githubusercontent.com/42807766/48487437-3eff0a80-e7ec-11e8-990e-fb8394b97ef1.png)
+
 
 ### Tuscany-Canterbury
 A neighborhood with no violent crimes within 1000 feet
