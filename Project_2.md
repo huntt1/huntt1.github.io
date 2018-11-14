@@ -52,55 +52,8 @@ That gif was composed from the following 6 maps
 
 
 
-
-
-
-
-
-## Below is the python code used to add all maps to QGIS.
-``` python
-#this is python created by Tom Hunt to determine high crime areas year to year in baltimore from 2012 to 2017
-
-
-from qgis.core import *
-from qgis.gui import *
-from PyQt5.QtGui import *
-from PyQt5.QtCore import *
-from PyQt5.QtGui import QColor
-from PyQt5.QtCore import Qt
-from qgis.utils import iface
-
-
-def load_layer():
-    iface.addVectorLayer('Z:/486/Project_2_New/Shapefiles/2012_violent_crimes_density_edited.shp', '2012 Violent Crimes', 'ogr')
-    iface.addVectorLayer('Z:/486/Project_2_New/Shapefiles/2013_violent_crimes_density_edited.shp', '2013 Violent Crimes', 'ogr')
-    iface.addVectorLayer('Z:/486/Project_2_New/Shapefiles/2014_violent_crimes_density_edited.shp', '2014 Violent Crimes', 'ogr')
-    iface.addVectorLayer('Z:/486/Project_2_New/Shapefiles/2015_violent_crimes_density_edited.shp', '2015 Violent Crimes', 'ogr')
-    iface.addVectorLayer('Z:/486/Project_2_New/Shapefiles/2016_violent_crimes_density_edited.shp', '2016 Violent Crimes', 'ogr')
-    iface.addVectorLayer('Z:/486/Project_2_New/Shapefiles/2017_violent_crimes_density_edited.shp', '2017 Violent Crimes', 'ogr')
-    iface.addVectorLayer('Z:/486/Project_2_New/Shapefiles/Balt_City_polygon/baltimore_city_polygon.shp', 'Baltimore City Boundary', 'ogr')
-    iface.addVectorLayer('Z:/486/Project_2_New/Shapefiles/Balt_city_harbor_water.shp', 'Baltimore Harbor Water', 'ogr')
-
-
-    #These below are to change the color of the layer,
-
-
-def change_color():
-    active_layer = iface.activeLayer()
-    renderer = active_layer.renderer()
-    symbol = renderer.symbol()
-    symbol.setColor(QColor(Qt.blue))
-    active_layer.triggerRepaint()
-    iface.layerTreeView().refreshLayerSymbology(active_layer.id())
-
-def open_attribute_table():
-    iface.showAttributeTable(iface.activeLayer())
-
-
-
-
 ```
-## This is the python I wrote to select features of the active layer.
+## This is the python I wrote to select features of the active layer and add all the project layers
 ``` python
 #this is python created by Tom Hunt to determine high crime areas year to year in baltimore from 2012 to 2017
 
@@ -144,9 +97,6 @@ def change_color():
     symbol.setColor(QColor(Qt.blue))
     active_layer.triggerRepaint()
     iface.layerTreeView().refreshLayerSymbology(active_layer.id())
-
-def open_attribute_table():
-    iface.showAttributeTable(iface.activeLayer())
 
 
 
