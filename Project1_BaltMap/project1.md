@@ -8,6 +8,15 @@ title: Buildings in Baltimore
 
 ![3d map 1](https://user-images.githubusercontent.com/42807766/49382255-f9937600-f6e3-11e8-9f20-ba38ba5dc2ba.PNG)
 
+[Grid Map.pdf](https://github.com/huntt1/huntt1.github.io/files/2640011/Grid.Map.pdf)
+
+![neighborhood map alternate version](https://user-images.githubusercontent.com/42807766/49382301-16c84480-f6e4-11e8-8b56-9d614b82e52c.jpg)
+
+[Neighborhood Map.pdf](https://github.com/huntt1/huntt1.github.io/files/2640016/Neighborhood.Map.pdf)
+
+
+
+
 
 <b>One</b> uses counts in neighborhood shapefiles to see density in neighborhoods of Baltimore.
 
