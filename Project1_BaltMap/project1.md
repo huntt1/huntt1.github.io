@@ -6,6 +6,9 @@ title: Buildings in Baltimore
 
 <strong>First off, I did not stick to really one map and created two ways to present the same dataset. </strong>
 
+![3d map 1](https://user-images.githubusercontent.com/42807766/49382255-f9937600-f6e3-11e8-9f20-ba38ba5dc2ba.PNG)
+
+
 <b>One</b> uses counts in neighborhood shapefiles to see density in neighborhoods of Baltimore.
 
 <b>Two</b> uses a grid system to show this same data count but this time the count was within the grid hexagons instead of neighborhoods.
