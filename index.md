@@ -1,3 +1,3 @@
 ---
-title: Tom Hunt's Portfolio
+title: Tom Hunt's Portfolio For BADASSES
 ---
