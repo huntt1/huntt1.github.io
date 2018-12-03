@@ -11,6 +11,9 @@ title: Buildings in Baltimore
 
 ![neighborhood map alternate version](https://user-images.githubusercontent.com/42807766/49382301-16c84480-f6e4-11e8-8b56-9d614b82e52c.jpg)
 
+![capture1](https://user-images.githubusercontent.com/42807766/49382664-006eb880-f6e5-11e8-89ab-9ec7e13e2f50.PNG)
+
+![capture2](https://user-images.githubusercontent.com/42807766/49382676-08c6f380-f6e5-11e8-9453-ccd80a53d71c.PNG)
 
 
 
