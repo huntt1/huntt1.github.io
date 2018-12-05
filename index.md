@@ -26,4 +26,5 @@ This Project Focused on Old Buildings (100 years+) that have Ground Rent in the 
 
 ### Project 2
 
-![capture2](https://user-images.githubusercontent.com/42807766/49520516-7011ae80-f871-11e8-9c10-6d958ebc9af2.PNG)
+![capture3](https://user-images.githubusercontent.com/42807766/49520693-d0085500-f871-11e8-9a3c-d1c09edb3cac.PNG)
+
