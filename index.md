@@ -3,7 +3,7 @@ title: Tom Hunt's Portfolio
 ---
 
 <div style="display:table-row; width:100%; table-layout: fixed">
-<div style="display: table-cell; width:370px; margin-right:3px" markdown="1">
+<div style="display: table-cell; width:420px; margin-right:3px" markdown="1">
   
 ### Project 1
 
