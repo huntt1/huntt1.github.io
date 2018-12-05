@@ -11,7 +11,7 @@ title: Tom Hunt's Portfolio
 ![capture](https://user-images.githubusercontent.com/42807766/49518683-3d65b700-f86d-11e8-9cb6-217a7cde5086.PNG)
 
  
-This Project Focused on Old Buildings (100 years+) that have Ground Rent in the City of Baltimore.
+<font size="8"> This is some text!This Project Focused on Old Buildings (100 years+) that have Ground Rent in the City of Baltimore. </font>
 
 [See more details here](https://huntt1.github.io/Project1_BaltMap/project1.html)
 
@@ -30,7 +30,7 @@ This Project Focused on Old Buildings (100 years+) that have Ground Rent in the 
 ![capture3](https://user-images.githubusercontent.com/42807766/49520693-d0085500-f871-11e8-9a3c-d1c09edb3cac.PNG)
 
 
-This Project Focuses on Crime data in Baltimore for six years from 2012 to 2017.
+<font size="8"> This Project Focuses on Crime data in Baltimore for six years from 2012 to 2017. </font>
 
 [See more details here](https://huntt1.github.io/Project1_BaltMap/project1.html)
 
