@@ -32,7 +32,7 @@ title: Tom Hunt's Portfolio
 
 <font size="4"> This Project Focuses on Crime data in Baltimore for six years from 2012 to 2017. Seperated by year and then done as an amalgamation of all six years shows an interesting perspective on crime clusters in the city. </font>
 
-[See more details here](https://huntt1.github.io/Project1_BaltMap/project1.html)
+[See more details here](https://huntt1.github.io/Project2_BaltMap/Project2.md)
 
 <small>__Tools__: QGIS, Create Grid, Count Points, Clip, Heatmap, Buffer            </small>
 
