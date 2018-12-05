@@ -22,7 +22,7 @@ This Project Focused on Old Buildings (100 years+) that have Ground Rent in the 
 
 </div>
 
-<div style="display: table-cell; width:370px" markdown="1">
+<div style="display: table-cell; width:420px" markdown="1">
 
 ### Project 2
 
