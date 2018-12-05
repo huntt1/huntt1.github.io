@@ -38,3 +38,11 @@ title: Tom Hunt's Portfolio
 
 <small>__Data Source__: [Baltimore Police Department Crime Data](https://www.baltimorepolice.org/crime-stats/crime-map-data-stats)     </small>
 
+
+</div>
+</div>
+<!--This is the second row of projects -->
+<div style="display:table-row; width:100%; table-layout: fixed">
+<div style="display: table-cell; width:420px; margin-right:3px" markdown="1">
+
+### Project 3 
