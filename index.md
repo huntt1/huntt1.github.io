@@ -14,5 +14,5 @@ title: Tom Hunt's Portfolio
 
 <small>__Tools__: QGIS,Create Grid, Count Points, Clip, 3D Model Viewer              </small>
 
-<small>__Data Source_: [Baltimore City Open GIS Data](http://gis-baltimore.opendata.arcgis.com/)
+<small>__Data Source__: [Baltimore City Open GIS Data](http://gis-baltimore.opendata.arcgis.com/)
 
