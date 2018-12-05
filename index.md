@@ -46,3 +46,12 @@ title: Tom Hunt's Portfolio
 <div style="display: table-cell; width:420px; margin-right:3px" markdown="1">
 
 ### Project 3 
+
+This is the upcoming Final Project for 486
+
+
+
+
+
+### Project 4
+
