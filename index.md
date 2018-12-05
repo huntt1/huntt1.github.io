@@ -34,7 +34,7 @@ This Project Focuses on Crime data in Baltimore for six years from 2012 to 2017.
 
 [See more details here](https://huntt1.github.io/Project1_BaltMap/project1.html)
 
-<small>__Tools__: QGIS, Create Grid, Count Points, Clip, 3             </small>
+<small>__Tools__: QGIS, Create Grid, Count Points, Clip, Heatmap, Buffer            </small>
 
 <small>__Data Source__: [Baltimore Police Department Crime Data](https://www.baltimorepolice.org/crime-stats/crime-map-data-stats)     </small>
 
