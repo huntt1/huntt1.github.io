@@ -12,7 +12,15 @@ title: Tom Hunt's Portfolio
 
 [See more details here](https://huntt1.github.io/Project1_BaltMap/project1.html)
 
-<small>__Tools__: QGIS,Create Grid, Count Points, Clip, 3D Model Viewer              </small>
+<small>__Tools__: QGIS, Create Grid, Count Points, Clip, 3D Model Viewer              </small>
 
 <small>__Data Source__: [Baltimore City Open GIS Data](http://gis-baltimore.opendata.arcgis.com/)
+
+This Project Focused on Old Buildings (100 years+) that have Ground Rent in the City of Baltimore.
+
+</div>
+
+<div style="display: table-cell; width:370px" markdown="1">
+
+### Project 2
 
