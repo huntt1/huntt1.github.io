@@ -5,7 +5,7 @@ title: Final Project
 
 
 Below are images created using GeoDa. GeoDa is a free spatial analysis and autocorrection software you can download for free [here](http://geodacenter.github.io/download.html).
-These images are based on the NUMPOINTS variable which is a count of violent crimes in each of the hexagons created over baltimore. This select dataset was created in the previous "Project 2"](https://huntt1.github.io/Project2_BaltMap/Project2.html). 
+These images are based on the NUMPOINTS variable which is a count of violent crimes in each of the hexagons created over baltimore. This select dataset was created in the previous ["Project 2"](https://huntt1.github.io/Project2_BaltMap/Project2.html). 
 
 ![capture6](https://user-images.githubusercontent.com/42807766/49627451-e1a24780-f9ac-11e8-850a-5f9c0f1beba4.PNG)
 
