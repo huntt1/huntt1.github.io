@@ -1,5 +1,5 @@
 ---
-title: Project 2: Crime in Baltimore 2012-2017
+title: Project 2, Crime in Baltimore 2012-2017
 ---
 
 
