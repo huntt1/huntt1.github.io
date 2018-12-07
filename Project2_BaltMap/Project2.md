@@ -7,9 +7,9 @@ title: Project 2, Crime in Baltimore 2012-2017
 
 ### Data Source:
 
- Crime data was from the Baltimore Police Department at the following website [Baltimore Police Crime Data](https://www.baltimorepolice.org/crime-stats/open-data)
+ Crime data was from the Baltimore Police Department at the following website [Baltimore Police Crime Data](https://www.baltimorepolice.org/crime-stats/open-data).
 
-The Baltimore City Polygon was from the City of Baltimore Open GIS data site at [Baltimore Open GIS Data](http://gis-baltimore.opendata.arcgis.com/datasets/9af1e17e8ff8469fa9015abde4f33e75_0)
+The Baltimore City Polygon was from the City of Baltimore Open GIS data site at [Baltimore Open GIS Data](http://gis-baltimore.opendata.arcgis.com/datasets/9af1e17e8ff8469fa9015abde4f33e75_0).
 
 ### Tools used
 - create grid
