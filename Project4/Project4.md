@@ -3,7 +3,11 @@ title: Fires in California
 ---
 
 
-This is the first map of a set detailing wildfires over time in California. Data was taken from [here](http://frap.fire.ca.gov/data/frapgisdata-sw-counties_download) and [here](http://frap.fire.ca.gov/data/frapgisdata-sw-fireperimeters_download)
+This is a set of maps detailing wildfires over time in California. Data was taken from [here](http://frap.fire.ca.gov/data/frapgisdata-sw-counties_download) and [here](http://frap.fire.ca.gov/data/frapgisdata-sw-fireperimeters_download)
+
+![fire_prone_areas_of_california](https://user-images.githubusercontent.com/42807766/49688461-82ddea80-fae0-11e8-944c-99eaf8738bcb.png)
+
+The below maps split up California Wildfires over sections of time.
 
 
 
