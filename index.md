@@ -54,6 +54,9 @@ This is the upcoming Final Project for 486
 
 
 ### Project 4
+![wildfireclip](https://user-images.githubusercontent.com/42807766/49682775-2222c380-fa88-11e8-8bc5-c81cd288f3c6.PNG)
+
+
 California Wildfire Maps
 [Check them out here](https://huntt1.github.io/Project4/Project4.html)
 
