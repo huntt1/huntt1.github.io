@@ -6,3 +6,5 @@ navigation_header:
   Project 2: /Project2_BaltMap/Project2.html
   Final Project: /Project3_Final_project/project3.html
   Other Work: /Project4/Project4.html
+
+theme: jekyll-theme-tactile
