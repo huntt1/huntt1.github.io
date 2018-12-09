@@ -5,7 +5,8 @@ title: Fires in California
 
 This is a set of maps detailing wildfires over time in California. Data was taken from [here](http://frap.fire.ca.gov/data/frapgisdata-sw-counties_download) and [here](http://frap.fire.ca.gov/data/frapgisdata-sw-fireperimeters_download)
 
-![fire_prone_areas_of_california2](https://user-images.githubusercontent.com/42807766/49690944-d2371180-fb06-11e8-956c-0859dc97e0bc.png)
+![clipped_buffer_fire_prone](https://user-images.githubusercontent.com/42807766/49702638-5ef5d400-fbc8-11e8-9e90-24d033c0da3f.png)
+
 
 
 The below maps split up California Wildfires over sections of time.
@@ -21,4 +22,14 @@ The below maps split up California Wildfires over sections of time.
 ![fire_supression7](https://user-images.githubusercontent.com/42807766/49682718-5944a500-fa87-11e8-9bdf-2b05ee43379e.png)
 ![fire_supression8](https://user-images.githubusercontent.com/42807766/49682719-5944a500-fa87-11e8-9256-b09b5633b3b8.png)
 
+
+
+
+
+
+
+
+##Other Older Versions of Previous maps 
 ![fire_prone_areas_of_california](https://user-images.githubusercontent.com/42807766/49688461-82ddea80-fae0-11e8-944c-99eaf8738bcb.png)
+
+![fire_prone_areas_of_california2](https://user-images.githubusercontent.com/42807766/49690944-d2371180-fb06-11e8-956c-0859dc97e0bc.png)
