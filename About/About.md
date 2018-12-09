@@ -1,6 +1,6 @@
 
 ---
-title: About the Author 
+title:About the Author 
 --- 
   
     
