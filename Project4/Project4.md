@@ -29,7 +29,7 @@ The below maps split up California Wildfires over sections of time.
 
 
 
-##Other Older Versions of Previous maps 
+## Other Older Versions of Previous maps 
 ![fire_prone_areas_of_california](https://user-images.githubusercontent.com/42807766/49688461-82ddea80-fae0-11e8-944c-99eaf8738bcb.png)
 
 ![fire_prone_areas_of_california2](https://user-images.githubusercontent.com/42807766/49690944-d2371180-fb06-11e8-956c-0859dc97e0bc.png)
