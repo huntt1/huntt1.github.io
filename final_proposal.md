@@ -1,8 +1,7 @@
 Final Proposal 
 
 
-
-
+For the final project I have used the same dataset I modified for Project 2 earlier. this data was altered from the original set give by the Baltimore Police Department. In this project i built on some previous ideas and incorporated some feedback i was given during my presentation. For my hexagon grid map that i had in project 2, i resampled tbe grid area to make it larger hexagons and more easily viewable.. I then imported this data into GeoDa to do a cluster snd statistical analysis on. 
 
 
 
