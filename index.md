@@ -50,7 +50,7 @@ title: Tom Hunt's Portfolio
 ![rsz_1tiny_clip](https://user-images.githubusercontent.com/42807766/49699679-2cd17b80-fba2-11e8-8619-c7629f9576cb.jpg)
 
 
-Using GeoDa to show high crime clusters in Baltimore City.
+Using GeoDa to show high crime clusters in Baltimore City. More can be found in the [Final Project](https://huntt1.github.io/Project3_Final_project/project3.html) Section
 
 
 
