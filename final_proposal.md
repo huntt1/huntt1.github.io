@@ -8,3 +8,4 @@ For the final project I have used the same dataset I modified for Project 2 earl
 Essentially, for the final project I am looking at how crime clusters in Baltimore city. After this we will try to figure out why there are certain clusters of high crime in certain sections of the city that seem like outliers to the focus of crime on populated downtown Baltimore.
 
 
+PS: Some of this i have already done, check out the Final Project or Other Work tab to see some of it.
