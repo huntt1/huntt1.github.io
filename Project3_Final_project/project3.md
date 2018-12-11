@@ -22,3 +22,9 @@ The below two images show the signifigance and cluster maps for this baltimore c
 
 
 ![capture3](https://user-images.githubusercontent.com/42807766/49627454-e1a24780-f9ac-11e8-8659-65d641d5c02a.PNG)
+
+
+Then you're like wait what else can i do with this data
+
+
+
