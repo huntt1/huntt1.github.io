@@ -34,4 +34,7 @@ Then you're like wait what else can i do with this data
 ![nhood2](https://user-images.githubusercontent.com/42807766/49780457-9b1a5900-fcdc-11e8-8c1f-730e04a8d270.PNG)
 ![nhood1](https://user-images.githubusercontent.com/42807766/49780458-9b1a5900-fcdc-11e8-9bf1-514372d095fb.PNG)
 
-![Scary_points](https://huntt1.github.io/Project3_Final_project/Scary_points1.png)
+Now to go a different direction
+
+![scary_point3_3](https://user-images.githubusercontent.com/42807766/49969720-36871600-fef7-11e8-8848-0d9f3603d77a.png)
+
