@@ -2,6 +2,7 @@
 title: About the Author
 
 ---
-  
-  #Tom Hunt
+ 
+Tom Hunt
+
 Legally human
