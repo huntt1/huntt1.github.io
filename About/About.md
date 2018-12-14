@@ -3,5 +3,5 @@ title: About the Author
 
 ---
   
-    
-UMBC 
+  #Tom Hunt
+Legally human
