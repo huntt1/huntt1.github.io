@@ -1,6 +1,6 @@
 ---
 title: Buildings in Baltimore
-
+feature_image: "p2_feature.png"
 ---
 <b>Tom Hunt Project One</b>
 
