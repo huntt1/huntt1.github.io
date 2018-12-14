@@ -45,10 +45,13 @@ This included
 - Speed Cameras
 - Arsons (2017)
 
+
+Rat data might be in the final project, it's a lot of reportings.
+
 ![scary_point3_3](https://user-images.githubusercontent.com/42807766/49969720-36871600-fef7-11e8-8848-0d9f3603d77a.png)
 
 
-
+In this map, Cemeteries and Haunted Buildings have double weight.
 
 ![spooky7](https://user-images.githubusercontent.com/42807766/49983310-f4c69180-ff2f-11e8-888e-cc8a4b9dc0e6.png)
 
