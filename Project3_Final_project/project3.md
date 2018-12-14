@@ -35,6 +35,15 @@ Then you're like wait what else can i do with this data
 ![nhood1](https://user-images.githubusercontent.com/42807766/49780458-9b1a5900-fcdc-11e8-9bf1-514372d095fb.PNG)
 
 Now to go a different direction
+Inspired by Dr. Mahmoudi's Badassness Map of Portland where he took 8 factors to define if an area was badass.
+In my redux of this, I tried to map things i thought were spooky or scary in Baltimore. 
+This included
+- Haunted Buildings
+- Cemeteries
+- Funeral Homes/Crematoriums
+- Courts
+- Speed Cameras
+- Arsons (2017)
 
 ![scary_point3_3](https://user-images.githubusercontent.com/42807766/49969720-36871600-fef7-11e8-8848-0d9f3603d77a.png)
 
