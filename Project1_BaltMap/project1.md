@@ -1,6 +1,6 @@
 ---
 title: Buildings in Baltimore
-feature_image: "p2_feature.png"
+feature_image: "![p2_feature](https://user-images.githubusercontent.com/42807766/50022544-8bd02f80-ffaa-11e8-8f14-890ca7d37e3c.jpg)"
 ---
 <b>Tom Hunt Project One</b>
 
