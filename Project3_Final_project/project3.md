@@ -41,7 +41,8 @@ This is a prime example of the Modified areal unit problem. The shape and size o
 Here is a nice little map showing Violent Crime by neighborhood
 ![neighborhoodcrime2](https://user-images.githubusercontent.com/42807766/49778670-3c50e180-fcd4-11e8-96b5-9c3ec35e1751.png)
 
-Now to go a different direction
+<b> Now to go a different direction <b>
+
 Inspired by Dr. Mahmoudi's [Badassness Map of Portland](http://dillonm.io/files/PortlandBadassnessMap2011March.pdf) where he took 8 factors to define if an area was badass.
 In my redux of this, I tried to map things i thought were spooky or scary in Baltimore. 
 This included
