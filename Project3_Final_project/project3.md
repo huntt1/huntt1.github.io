@@ -29,6 +29,8 @@ Then you're like wait what else can i do with this data.
 
 I then changed up from using the grid I had created to show crime, and used a Baltimore Neighborhood shapefile set to show Baltimore violent crimes. This changes the Moran's I considerably, from high clustering to no clustering. 
 
+This is a prime example of the Modified areal unit problem. The shape and size of the statistical areas that we compare directly affects what our outcome is.
+
 
 ![nhood4](https://user-images.githubusercontent.com/42807766/49780459-9b1a5900-fcdc-11e8-9cc6-b041657a0345.PNG)
 ![nhood3](https://user-images.githubusercontent.com/42807766/49780460-9b1a5900-fcdc-11e8-9923-131290fac794.PNG)
