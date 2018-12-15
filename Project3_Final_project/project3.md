@@ -27,7 +27,7 @@ The below two images show the signifigance and cluster maps for this baltimore c
 
 Then you're like wait what else can i do with this data. 
 
-I then changed up from using the grid I had created to show crime, and used a Baltimore Neighborhood shapefile set to show Baltimore violent crimes. This changes the Moran's I considerably, from high clustering to no clustering. 
+I then changed up from using the grid I had created to show crime, and used a Baltimore Neighborhood shapefile set to show Baltimore violent crimes. This changes the Moran's I considerably, from high clustering to no clustering. The original grid had a Moran's I of 0.637 while the neighborhood Moran's I was a much closer to 0 at 0.132.
 
 This is a prime example of the Modified areal unit problem. The shape and size of the statistical areas that we compare directly affects what our outcome is.
 
