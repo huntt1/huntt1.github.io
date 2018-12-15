@@ -5,6 +5,7 @@ title: Final Project
 
 
 Below are images created using GeoDa. GeoDa is a free spatial analysis and autocorrection software you can download for free [here](http://geodacenter.github.io/download.html).
+
 These images are based on the NUMPOINTS variable which is a count of violent crimes in each of the hexagons created over baltimore. This select dataset was created in the previous ["Project 2"](https://huntt1.github.io/Project2_BaltMap/Project2.html). You might notice that the grid of Baltimore has much larger hexagons than in Project 2. It was resampled to be more visible.
 
 ![capture6](https://user-images.githubusercontent.com/42807766/49627451-e1a24780-f9ac-11e8-850a-5f9c0f1beba4.PNG)
@@ -24,15 +25,19 @@ The below two images show the signifigance and cluster maps for this baltimore c
 ![capture3](https://user-images.githubusercontent.com/42807766/49627454-e1a24780-f9ac-11e8-8659-65d641d5c02a.PNG)
 
 
-Then you're like wait what else can i do with this data
+Then you're like wait what else can i do with this data. 
 
-![neighborhoodcrime2](https://user-images.githubusercontent.com/42807766/49778670-3c50e180-fcd4-11e8-96b5-9c3ec35e1751.png)
+I then changed up from using the grid I had created to show crime, and used a Baltimore Neighborhood shapefile set to show Baltimore violent crimes. This changes the Moran's I considerably, from high clustering to no clustering. 
 
 
 ![nhood4](https://user-images.githubusercontent.com/42807766/49780459-9b1a5900-fcdc-11e8-9cc6-b041657a0345.PNG)
 ![nhood3](https://user-images.githubusercontent.com/42807766/49780460-9b1a5900-fcdc-11e8-9923-131290fac794.PNG)
 ![nhood2](https://user-images.githubusercontent.com/42807766/49780457-9b1a5900-fcdc-11e8-8c1f-730e04a8d270.PNG)
 ![nhood1](https://user-images.githubusercontent.com/42807766/49780458-9b1a5900-fcdc-11e8-9bf1-514372d095fb.PNG)
+
+
+Here is a nice little map showing Violent Crime by neighborhood
+![neighborhoodcrime2](https://user-images.githubusercontent.com/42807766/49778670-3c50e180-fcd4-11e8-96b5-9c3ec35e1751.png)
 
 Now to go a different direction
 Inspired by Dr. Mahmoudi's [Badassness Map of Portland](http://dillonm.io/files/PortlandBadassnessMap2011March.pdf) where he took 8 factors to define if an area was badass.
