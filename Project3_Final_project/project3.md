@@ -1,6 +1,6 @@
 ---
 title: Final Project
-feature_image: "![spooky99](https://user-images.githubusercontent.com/42807766/50067558-6b14ff00-018f-11e9-8361-bea34bd8d643.png)"
+feature_image: "https://user-images.githubusercontent.com/42807766/50067558-6b14ff00-018f-11e9-8361-bea34bd8d643.png"
 ---
 
 
