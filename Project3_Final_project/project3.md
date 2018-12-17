@@ -53,6 +53,8 @@ This included
 - Speed Cameras
 - Arsons (2017)
 
+It took a while to collect this data, and lots of sorting through datasets with over a million points. Haunted buildings were taken from (A googled website)[https://www.hauntedrooms.com/top-11-haunted-places-baltimore-md]. Cemeteries were hand picked by looking at satellite imagery and creating my own data. Funeral Homes/Crematoriums was created the same way, with googling and looking at satellite imagery. Courts was taken from (This Baltimore Data)[https://catalog.data.gov/dataset/courthouses-86077] and also added in Federal courts not included in that data. Speed Camera data was taken from (Open Baltimore Data)[https://data.baltimorecity.gov/Transportation/Baltimore-Fixed-Speed-Cameras/dz54-2aru]. Arson data was taken from (Baltimore Crime Data)[https://www.baltimorepolice.org/crime-stats/open-data] and slightly edited to remove faults.
+
 
 Rat data might be in the final project, it's a lot of reportings.
 
