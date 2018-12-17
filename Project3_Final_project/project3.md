@@ -38,7 +38,8 @@ This is a prime example of the Modified areal unit problem. The shape and size o
 ![nhood1](https://user-images.githubusercontent.com/42807766/49780458-9b1a5900-fcdc-11e8-9bf1-514372d095fb.PNG)
 
 
-Here is a nice little map showing Violent Crime by neighborhood
+<b>Here is a nice little map showing Violent Crime by neighborhood </b>
+
 ![neighborhoodcrime2](https://user-images.githubusercontent.com/42807766/49778670-3c50e180-fcd4-11e8-96b5-9c3ec35e1751.png)
 
 <b> Now to go a different direction </b>
@@ -53,7 +54,7 @@ This included
 - Speed Cameras
 - Arsons (2017)
 
-<medium> Data Sources: </medium>
+<large> Data Sources: </large>
 
 It took a while to collect this data, and lots of sorting through datasets with over a million points. Haunted buildings were taken from [A googled website](https://www.hauntedrooms.com/top-11-haunted-places-baltimore-md). Cemeteries were hand picked by looking at satellite imagery and creating my own data. Funeral Homes/Crematoriums was created the same way, with googling and looking at satellite imagery. Courts was taken from [This Baltimore Data](https://catalog.data.gov/dataset/courthouses-86077) and also added in Federal courts not included in that data. Speed Camera data was taken from [Open Baltimore Data](https://data.baltimorecity.gov/Transportation/Baltimore-Fixed-Speed-Cameras/dz54-2aru). Arson data was taken from [Baltimore Crime Data](https://www.baltimorepolice.org/crime-stats/open-data) and slightly edited to remove faults.
 
