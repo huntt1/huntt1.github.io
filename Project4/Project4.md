@@ -1,6 +1,8 @@
 ---
 title: Fires in California
+feaure_image: "https://user-images.githubusercontent.com/42807766/50067722-479e8400-0190-11e9-9274-14115f113132.png"
 ---
+
 
 
 This is a set of maps detailing wildfires over time in California. Data was taken from [here](http://frap.fire.ca.gov/data/frapgisdata-sw-counties_download) and [here](http://frap.fire.ca.gov/data/frapgisdata-sw-fireperimeters_download)
