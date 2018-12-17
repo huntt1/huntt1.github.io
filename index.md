@@ -66,3 +66,8 @@ Using GeoDa to show high crime clusters in Baltimore City. More can be found in 
 California Wildfire Maps, GIFs of them will be coming soon.
 [Check them out here](https://huntt1.github.io/Project4/Project4.html)
 
+
+<small>__Data Source__: [Californias County Data](http://frap.fire.ca.gov/data/frapgisdata-sw-counties_download) and [California Fire Data](http://frap.fire.ca.gov/data/frapgisdata-sw-fireperimeters_download)     </small>
+
+
+
