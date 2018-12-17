@@ -1,6 +1,6 @@
 ---
 title: Project 2, Crime in Baltimore 2012-2017
-feature_image: "![2013gif](https://user-images.githubusercontent.com/42807766/50067475-1e312880-018f-11e9-9603-0e64d769e874.png)"
+feature_image: "https://user-images.githubusercontent.com/42807766/50067475-1e312880-018f-11e9-9603-0e64d769e874.png"
 
 ---
 
