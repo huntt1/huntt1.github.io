@@ -5,7 +5,7 @@ feature_image: "https://user-images.githubusercontent.com/42807766/50133440-8fd5
 ---
 
 
-
+This section is a work in progress and will constantly be updated. Hopefully it will soon show what areas have a high wildfire risk and are far from fire stations and fire supression equiptment. 
 This is a set of maps detailing wildfires over time in California. Data was taken from [here](http://frap.fire.ca.gov/data/frapgisdata-sw-counties_download) and [here](http://frap.fire.ca.gov/data/frapgisdata-sw-fireperimeters_download)
 
 ![clipped_buffer_fire_prone](https://user-images.githubusercontent.com/42807766/49702638-5ef5d400-fbc8-11e8-9e90-24d033c0da3f.png)
