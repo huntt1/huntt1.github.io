@@ -5,4 +5,5 @@ title: About the Author
  
 Tom Hunt
 
-Legally human
+Senior at UMBC
+Geography and Environmental Science with a Certificate in GIS science. 
