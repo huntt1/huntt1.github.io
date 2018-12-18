@@ -63,11 +63,11 @@ Using GeoDa to show high crime clusters in Baltimore City. More can be found in 
 
 <div style="display: table-cell; width:420px" markdown="1">
 
-### Project 4
+### California Fire Preparedness Work
 ![wildfireclip](https://user-images.githubusercontent.com/42807766/49682775-2222c380-fa88-11e8-8bc5-c81cd288f3c6.PNG)
 
 
-California Wildfire Maps, GIFs of them will be coming soon.
+This section is ongoing work to see what areas of California are underserviced with fire stations and fire supression equiptment. It is currently a project in the works but should show what areas of that state are more than half an hour from a fire station AND in high risk areas.
 [Check them out here](https://huntt1.github.io/Project4/Project4.html)
 
 
