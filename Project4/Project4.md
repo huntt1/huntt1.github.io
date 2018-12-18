@@ -1,6 +1,6 @@
 ---
 title: Fires in California
-feature_image: "https://user-images.githubusercontent.com/42807766/50067722-479e8400-0190-11e9-9274-14115f113132.png"
+feature_image: "https://user-images.githubusercontent.com/42807766/50133440-8fd5a900-0259-11e9-8a3e-4a77f8649788.png"
 
 ---
 
