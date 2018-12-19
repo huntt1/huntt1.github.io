@@ -55,7 +55,8 @@ title: Tom Hunt's Portfolio
 ![rsz_1tiny_clip](https://user-images.githubusercontent.com/42807766/49699679-2cd17b80-fba2-11e8-8619-c7629f9576cb.jpg)
 
 
-<font size="4"> Using GeoDa to show high crime clusters in Baltimore City. More can be found in the [Final Project](https://huntt1.github.io/Project3_Final_project/project3.html) Section </font>
+<font size="4"> Using GeoDa to show high crime clusters in Baltimore City. More can be found in the [Final Project] (https://huntt1.github.io/Project3_Final_project/project3.html)  Section 
+</font>
 
 <small>__Data Source__: [Baltimore Police Department Crime Data](https://www.baltimorepolice.org/crime-stats/crime-map-data-stats)     </small>
 
@@ -68,7 +69,8 @@ title: Tom Hunt's Portfolio
 
 
 <font size="4"> This section is ongoing work to see what areas of California are underserviced with fire stations and fire supression equiptment. It is currently a project in the works but should show what areas of that state are more than half an hour from a fire station AND in high risk areas.
-[Check them out here](https://huntt1.github.io/Project4/Project4.html) </font>
+[Check them out here](https://huntt1.github.io/Project4/Project4.html)  
+</font>
 
 
 <small>__Data Source__: [Californias County Data](http://frap.fire.ca.gov/data/frapgisdata-sw-counties_download) and [California Fire Data](http://frap.fire.ca.gov/data/frapgisdata-sw-fireperimeters_download)     </small>
