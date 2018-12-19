@@ -49,7 +49,7 @@ title: Tom Hunt's Portfolio
 <div style="display:table-row; width:100%; table-layout: fixed">
 <div style="display: table-cell; width:420px; margin-right:3px" markdown="1">
 
-### Project 3 
+### Final Project  
 
 
 ![rsz_1tiny_clip](https://user-images.githubusercontent.com/42807766/49699679-2cd17b80-fba2-11e8-8619-c7629f9576cb.jpg)
