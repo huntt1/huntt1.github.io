@@ -57,7 +57,7 @@ title: Tom Hunt's Portfolio
 
 <font size="4"> Using GeoDa to show high crime clusters in Baltimore City. Also includes a Spookiness Map of Baltimore. </font>
   
- More can be found in the [Final Project](https://huntt1.github.io/Project3_Final_project/project3.html)  Section 
+ [Check more out here](https://huntt1.github.io/Project3_Final_project/project3.html)  
 
 
 <small>__Data Source__: [Baltimore Police Department Crime Data](https://www.baltimorepolice.org/crime-stats/crime-map-data-stats)     </small>
