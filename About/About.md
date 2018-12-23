@@ -8,3 +8,5 @@ Tom Hunt
 Senior at UMBC
 
 Majoring in Geography and Environmental Science with a Certificate in GIS science. 
+
+Huntt1@umbc.edu
