@@ -10,7 +10,7 @@ This is a set of maps detailing wildfires over time in California. Data was take
 
 ![clipped_buffer_fire_prone](https://user-images.githubusercontent.com/42807766/49702638-5ef5d400-fbc8-11e8-9e90-24d033c0da3f.png)
 
-![new_fire_map4](https://user-images.githubusercontent.com/42807766/50380609-262f1380-063a-11e9-8078-effcd9eedf39.jpg)
+![air_attack_baby](https://user-images.githubusercontent.com/42807766/50380760-db17ff00-063f-11e9-916c-5a97f4beb1e0.jpg)
 
 Below is a gif of California wildfires over time
 
