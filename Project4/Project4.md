@@ -12,6 +12,7 @@ This is a set of maps detailing wildfires over time in California. Data was take
 
 ![helitak_and_airtankerstations](https://user-images.githubusercontent.com/42807766/50489397-680edf80-09d5-11e9-8ddf-8849f7192047.jpg)
 
+### The below map incorrectly shows retired air attack bases and is missing firestations in sacramento
 
 ![air_attack_baby](https://user-images.githubusercontent.com/42807766/50380760-db17ff00-063f-11e9-916c-5a97f4beb1e0.jpg)
 
